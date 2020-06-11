@@ -37,22 +37,22 @@
   }
 }
 
-.card {
+/* .card {
   margin: 100px auto;
   width: 800px;
   border: 1px solid gray;
   border-radius: 14px;
-}
+} */
 
-.image-container {
+/* .image-container {
   width: 100%;
   position: relative;
-}
+} */
 
-.image-container img {
+/* .image-container img {
   width: 100%;
   border-radius: 12px 12px 0 0;
-}
+} */
 
 .image-container p {
   position: absolute;
